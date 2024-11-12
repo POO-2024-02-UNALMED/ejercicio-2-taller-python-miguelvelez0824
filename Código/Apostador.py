@@ -16,5 +16,3 @@ class Apostador:
             loteria.playGame()
         else:
             print("Necesitas poner mas dinero en tu wallet")
-
-    

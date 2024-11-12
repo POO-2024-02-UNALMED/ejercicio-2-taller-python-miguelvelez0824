@@ -7,7 +7,7 @@ if __name__ == "__main__":
     print(apostador1.wallet)
 
     apostador2 = Apostador(2, "Ricardo", 548, "r@gmail.com")
-    apostador2.deposit(500)
+    apostador2.deposit(400)
     print(apostador2.wallet)
     apostador2.play(400)
     print(apostador2.wallet)
